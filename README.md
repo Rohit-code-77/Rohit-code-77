@@ -6,12 +6,14 @@
 [![](https://visitcount.itsvg.in/api?id=Rohit-code-77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">
+  🧠 Actively learning & practicing Data Structures and Algorithms (DSA)<br>
+  🎓 Samsung Innovation Campus 2025 — Certified in Artificial Intelligence<br>
   🛡️ Software Research Intern @ DRDO — ISSA<br>
   🌐 Web Dev Intern @ EY GDS × AICTE (MERN Stack)<br>
   🤖 AI Intern @ Edunet Foundation (Microsoft × AICTE)<br>
   🏆 Smart India Hackathon 2025 Participant<br>
   🎯 Event Head — R&D Cell, BPIT (BRDC)<br>
-  🚀 Built & deployed <a href="#">CrunchCart</a> & <a href="#">PFWallah.com</a><br>
+  🚀 Built & deployed <a href="crunchcart.in">CrunchCart</a> & <a href="pfwallah.com">PFWallah.com</a><br>
   🫂 Looking to collaborate on Open Source & AI Projects<br>
   📫 rohitkadian8689@gmail.com<br>
   📍 Delhi, India
