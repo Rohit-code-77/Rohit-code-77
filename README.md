@@ -13,7 +13,7 @@
   🤖 AI Intern @ Edunet Foundation (Microsoft × AICTE)<br>
   🏆 Smart India Hackathon 2025 Participant<br>
   🎯 Event Head — R&D Cell, BPIT (BRDC)<br>
-  🚀 Built & deployed <a href="https://crunchcart.in/">CrunchCart</a> & <a href="https://www.pfwallah.com/">PFWallah.com</a><br>
+  🚀 Built & deployed on Hostinger <a href="https://crunchcart.in/">CrunchCart</a> & <a href="https://www.pfwallah.com/">PFWallah.com</a><br>
   🫂 Looking to collaborate on Open Source & AI Projects<br>
   📫 rohitkadian8689@gmail.com<br>
   📍 Delhi, India
