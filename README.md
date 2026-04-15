@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="gif" align="right" width="390">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;ECE+%40+GGSIPU+⚡;Building+Real+Products+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Building+Real+Products+🚀)](https://git.io/typing-svg)
 [![](https://visitcount.itsvg.in/api?id=Rohit-code-77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">
@@ -20,14 +20,11 @@
 <br><br><br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rohitkadian">
+  <a href="linkedin.com/in/rohit-kadian-765947280">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohitkadian8689@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rohit-code-77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
