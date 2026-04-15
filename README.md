@@ -22,7 +22,7 @@
 <br><br><br>
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/rohit-kadian-765947280">
+  <a href="https://www.linkedin.com/in/rohit-kadian-765947280/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohitkadian8689@gmail.com">
