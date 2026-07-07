@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Rohit-code-77&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+          options: username=Rohit-code-77&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&custom_title=Rohit's%20GitHub%20Stats
           path: profile/stats.svg
           token: ${{ secrets.RSTATS_TOKEN }}
 
@@ -26,8 +26,22 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Rohit-code-77&theme=dark&layout=compact
+          options: username=Rohit-code-77&theme=tokyonight&layout=donut-vertical&border_radius=12&hide_border=false
           path: profile/top-langs.svg
+          token: ${{ secrets.RSTATS_TOKEN }}
+
+      - name: Generate trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Rohit-code-77
+          output_path: profile/trophies.svg
+          token: ${{ secrets.RSTATS_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Rohit-code-77&theme=tokyonight&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.RSTATS_TOKEN }}
 
       - name: Commit cards
