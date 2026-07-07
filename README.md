@@ -80,13 +80,13 @@
 
 # 📊 GitHub Stats:
 ![](./profile/stats.svg)
-![](https://streak-stats.demolab.com/?user=Rohit-code-77&theme=dark&hide_border=false)
+![](./profile/streak.svg)
 ![](./profile/top-langs.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohit-code-77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](./profile/trophies.svg)
 
 ---
 
