@@ -79,9 +79,13 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 # 📊 GitHub Stats:
-![](./profile/stats.svg)
-![](./profile/streak.svg)
-![](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
+</p>
+<p align="center">
+  <img src="./profile/streak.svg" />
+</p>
 
 ---
 
