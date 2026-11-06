@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="gif" align="right" width="390">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Building+Real+Products+🚀)](https://git.io/typing-svg)
-[![](https://visitcount.itsvg.in/api?id=Rohit-code-77&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Rohit-code-77&color=blue&style=flat&label=Profile+views)
 
 <div align="left">
   🧠 Actively learning & practicing Data Structures and Algorithms (DSA)<br>
@@ -33,7 +33,11 @@
 ---
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Rohit-code-77/Rohit-code-77/output/snake.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohit-code-77/Rohit-code-77/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohit-code-77/Rohit-code-77/output/snake.svg" />
+  <img alt="Rohit's contribution snake" src="https://raw.githubusercontent.com/Rohit-code-77/Rohit-code-77/output/snake.svg" />
+</picture>
 
 ---
 
@@ -86,16 +90,6 @@
 <p align="center">
   <img src="./profile/streak.svg" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-![](./profile/trophies.svg)
-
----
-
-## 📈 Activity Graph
-[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohit-code-77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
