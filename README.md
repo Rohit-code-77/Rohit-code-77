@@ -88,7 +88,7 @@
   <img src="./profile/top-langs.svg" width="49%" />
 </p>
 <p align="center">
-  <img src="./profile/streak.svg" />
+  <img src="https://streak-stats.demolab.com/?user=Rohit-code-77&theme=tokyonight&disable_animations=true" alt="GitHub streak" />
 </p>
 
 ---
